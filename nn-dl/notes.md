@@ -79,6 +79,8 @@ The weight decreases by the derivative times the learning rate
 
 The average of derivatives across the loss function 
 
+### Vectorization 
+
 
 
 
