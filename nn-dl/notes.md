@@ -79,7 +79,15 @@ The weight decreases by the derivative times the learning rate
 
 The average of derivatives across the loss function 
 
-### Vectorization 
+### Vectorization & Broadcasting
+
+Vecotirzation through numpy is faster
+
+Braodcast = apply a mathical operation over columns 
+
+### Cost function of logistic regression 
+
+
 
 
 
