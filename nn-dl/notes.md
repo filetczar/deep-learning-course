@@ -88,6 +88,14 @@ Braodcast = apply a mathical operation over columns
 ### Cost function of logistic regression 
 
 
+# quiz
+What does a neuron compute? A neuron computes a linear function z = Wx +b followed by an activation function 
+
+Logistic Loss = -(y(i)log(pred_y(i))) + (1-y(i))log(1-pred_y(i))
+
+Numpy shape of a n<sub>x</sub> inputer features for observations X = [X<sub>1</sub> ... , X<sub>m</sub>] yeild sn array of (n<sub>x</sub>, m)
+
+
 
 
 
